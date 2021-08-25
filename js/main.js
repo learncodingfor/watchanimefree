@@ -1,2 +1,2 @@
-import {hello} from './module.js';
+import {anime} from './module.js';
 let val = hello();
