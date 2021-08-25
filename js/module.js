@@ -1,3 +1,3 @@
 export function anime(){
-  return "hello";
+  return "anime";
 }
