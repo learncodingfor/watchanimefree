@@ -1,3 +1,3 @@
-export function hello(){
+export function anime(){
   return "hello";
 }
